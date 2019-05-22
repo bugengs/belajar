@@ -1,1 +1,5 @@
-Git clone https//://github.com/sqlmapproject/sqlmap
+Pkg update
+Pkg upgrade
+Pkg install python2
+Pkg install git
+Git clone https://github.com/sqlmapproject/sqlmap
